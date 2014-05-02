@@ -1,0 +1,17 @@
+{
+  "name": "Brandi Responsive Page",
+  "version": "0.0.1",
+  "homepage": "https://github.com/davtech/Brandi-Responsive-Layout",
+  "authors": [
+    "David Bastos - LD"
+  ],
+  "description": "Pagina HTML",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
